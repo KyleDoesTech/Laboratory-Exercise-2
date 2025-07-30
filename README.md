@@ -65,7 +65,7 @@ react-exam-app/
 The questions are imported from a provided `questions.json` file and contain:
 - Multiple Choice
 - True/False
-- Identification (text input)
+- Identification 
 
 ---
 
@@ -75,17 +75,11 @@ The questions are imported from a provided `questions.json` file and contain:
 
 ---
 
-## 📌 Additional Enhancements (For 💯 Score)
+## 📌 Additional Enhancements
 
 - ✅ Welcome Screen
 - ✅ Answer Auto-Saving (`localStorage`)
 - ✅ Final Confirmation Modal
 - ✅ Custom Styling and Layout
-
----
-
-## 🏁 Deployment
-
-Optional: Deploy it to GitHub Pages, Netlify, or Vercel for live testing.
 
 ---
